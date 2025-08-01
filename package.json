@@ -1,0 +1,19 @@
+{
+  "name": "solar_npm",
+  "version": "3.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marsbasex/solarshipx.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marsbasex/solarshipx/issues"
+  },
+  "homepage": "https://github.com/marsbasex/solarshipx#readme",
+  "description": ""
+}
